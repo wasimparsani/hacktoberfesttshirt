@@ -1,3 +1,3 @@
 # hacktoberfesttshirt
 Create your Pull request
-Abhineet Kumar -JECRC University
+Abhineet Kumar -JECRC University Section-H
